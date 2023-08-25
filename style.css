@@ -1,0 +1,17 @@
+/* Center content on the page */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+/* Apply inline-block style to spans */
+span {
+    display: inline-block;
+    /* Add more styles as needed */
+}
+
+/* Add more CSS rules for styling */
